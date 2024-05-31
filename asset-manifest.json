@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/working-with-components/static/css/main.f02cbfcc.css",
+    "main.js": "/working-with-components/static/js/main.41c3cbc8.js",
+    "static/media/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg": "/working-with-components/static/media/desola-lanre-ologun-IgUR1iX0mqM-unsplash.b173013be41ef2d84741.jpg",
+    "index.html": "/working-with-components/index.html",
+    "main.f02cbfcc.css.map": "/working-with-components/static/css/main.f02cbfcc.css.map",
+    "main.41c3cbc8.js.map": "/working-with-components/static/js/main.41c3cbc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f02cbfcc.css",
+    "static/js/main.41c3cbc8.js"
+  ]
+}
